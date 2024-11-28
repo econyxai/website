@@ -10,7 +10,7 @@ export function Navbar() {
           <div className="flex items-center space-x-2">
             {/* <CircuitBoard className="w-8 h-8 text-[#00F0FF]" /> */}
             <img src={logo} alt="ECONYX.AI" className="w-24 h-24" />
-            <span className="text-white text-xl font-bold">ECONYX.AI</span>
+            <span className="text-white text-4xl font-bold">ECONYX.AI</span>
           </div>
           <div className="flex items-center space-x-6">
             <Link href="#features">Features</Link>
