@@ -12,7 +12,7 @@ export function Hero() {
         >
           Revolutionizing Tokenomics with 
           <span className="bg-gradient-to-r from-[#00F0FF] to-[#6E00FF] text-transparent bg-clip-text">
-            {" "}Autonomous AI Agents
+            {" "} AI Agents
           </span>
         </motion.h1>
         <motion.p 
