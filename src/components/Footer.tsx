@@ -19,8 +19,6 @@ export function Footer() {
           >
             <Twitter className="w-6 h-6" />
           </a>
-            <Linkedin className="w-6 h-6" />
-          </a>
         </div>
       </div>
     </footer>
