@@ -4,18 +4,18 @@ import { motion } from 'framer-motion';
 const features = [
   {
     icon: Brain,
-    title: 'Autonomous Agents',
-    description: 'Self-learning AI agents that optimize token distribution and market dynamics'
+    title: 'Autonomous Token Governance',
+    description: 'Leverage AI agents that dynamically manage token metrics, ensuring optimal emissions and liquidity. Experience unparalleled efficiency and stability without manual intervention.'
   },
   {
     icon: Network,
-    title: 'Decentralized Networks',
-    description: 'Seamlessly connected token economies powered by advanced blockchain technology'
+    title: 'Real-Time Data Adaptation',
+    description: 'Stay ahead of the curve with AI-powered decision-making based on live market and performance data. Your token economy evolves in sync with real-world conditions.'
   },
   {
     icon: Shield,
-    title: 'Secure Operations',
-    description: 'Enterprise-grade security with real-time threat detection and prevention'
+    title: 'Collaborative Optimization',
+    description: 'AI agents work as a team to balance supply, demand, and growth, driving sustainable economic outcomes for your project while minimizing volatility.'
   }
 ];
 
